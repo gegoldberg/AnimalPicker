@@ -10,10 +10,10 @@ public class AnimalPicker {
 		int userInput = input.nextInt();
 		
 		if (userInput == 1) {
-			System.out.println("CAT ASCII ART HERE");
+			System.out.println("\" /\\\\_/\\\\\\n( o.o )\\n > ^ <\"");
 			choice = false;
 		} else if (userInput == 2) {
-			System.out.println("DOG ASCII ART HERE");
+			System.out.println("\",-.___,-.\\n\\\\_/_ _\\\\_/\\n  )O_O(\\n { (_) }\\n  `-^-\\'   \"");
 			choice = false;
 		} else {
 			System.out.println("Invalid input.");
